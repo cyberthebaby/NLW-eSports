@@ -2,7 +2,7 @@
 
 >💎 Explorer trail
 
-Project built at Rocketseat
+Project built at [Rocketseat](https://rocket.com.br)
 next Level Week event
 With simplified and very intuitive construction!
 
@@ -19,7 +19,7 @@ See a photo of the Project below 👇
 - Git
 - Github
 
-### Important Topics of this project
+## Important Topics of this project
 
 - Super fast to learn
 - Intuitive and fun
@@ -28,6 +28,6 @@ See a photo of the Project below 👇
 
 [Maykbrito](https://github.com/maykbrito) - Instructor of this project
 
-## 📞 Contact
+## 📩 Contact 📩
 
 cyberthebaby@gmail.com
